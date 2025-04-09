@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 
 st.title('การจำแนกข้อมูลด้วยเทคนิค Machine Learning')
 st.image("./img/Stein_gate.jpg")
+
 col1, col2, col3 = st.columns(3)
 
 with col1:
